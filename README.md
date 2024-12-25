@@ -1,4 +1,4 @@
-# mongo-sharding-repl            
+# mongo-sharding            
 
 ## Как запустить
 
